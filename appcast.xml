@@ -13,7 +13,7 @@
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://llermaly.github.io/movedoro-releases/Movedoro.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.1.0/Movedoro.zip" length="1673287" type="application/octet-stream" sparkle:edSignature="ZYIhHsAT2qYcU9eFAasN8JN29gKDvG436wgw/V7AwP2X6MCSr4GB4kUaSY+pUDwiR1Ddf2M3aCx6vKk4rqHICg=="/>
+            <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.1.0/Movedoro.zip" length="1673096" type="application/octet-stream" sparkle:edSignature="+PGCwSMCz751XYAnzqHC/em2uXYFXh3CickYSXzz0NF/xQ3YL30M1rfSYqnN2c4FJFgRLh0sCRPxDRkNFOdlAg=="/>
         </item>
     </channel>
 </rss>
