@@ -1,9 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-  <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-      <channel>
-          <title>Movedoro Updates</title>
-          <link>https://github.com/llermaly/extreme-pomodoro</link>
-          <description>Updates for Movedoro</description>
-          <language>en</language>
-      </channel>
-  </rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Movedoro Updates</title>
+        <link>https://github.com/llermaly/extreme-pomodoro</link>
+        <description>Updates for Movedoro</description>
+        <language>en</language>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Sat, 27 Dec 2025 03:58:11 +0000</pubDate>
+            <link>https://github.com/llermaly/movedoro/releases</link>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://llermaly.github.io/movedoro-releases/Movedoro.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.1.0/Movedoro.zip" length="1673287" type="application/octet-stream" sparkle:edSignature="ZYIhHsAT2qYcU9eFAasN8JN29gKDvG436wgw/V7AwP2X6MCSr4GB4kUaSY+pUDwiR1Ddf2M3aCx6vKk4rqHICg=="/>
+        </item>
+    </channel>
+</rss>
