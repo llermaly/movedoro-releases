@@ -6,6 +6,15 @@
         <description>Updates for Movedoro</description>
         <language>en</language>
         <item>
+            <title>1.2.6</title>
+            <pubDate>Sat, 17 Jan 2026 07:45:46 +0000</pubDate>
+            <link>https://github.com/llermaly/movedoro/releases</link>
+            <sparkle:version>1.2.6</sparkle:version>
+            <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.2.6/Movedoro.zip" length="1499811" type="application/octet-stream" sparkle:edSignature="qLSVWdmXxNloQm6QyG1yML6vH/CvlckMgarm1eEovWn1k3nP0b3NuWvzTJ6S8lVELSqGJnEvFp8Tfxrj5TEEAA=="/>
+        </item>
+        <item>
             <title>1.2.3</title>
             <pubDate>Sat, 17 Jan 2026 07:34:58 +0000</pubDate>
             <link>https://github.com/llermaly/movedoro/releases</link>
@@ -23,16 +32,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://llermaly.github.io/movedoro-releases/Movedoro.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.2.2/Movedoro.zip" length="1499877" type="application/octet-stream" sparkle:edSignature="6qSAD5GnnwTD7L5KX0T8WWq1ppTOv7lR2l7doouQWRlSgCZXRuSzgtKN255e2FtlXp3/4pzv24PmKp43bB3gAw=="/>
-        </item>
-        <item>
-            <title>1.2.1</title>
-            <pubDate>Sat, 17 Jan 2026 07:20:29 +0000</pubDate>
-            <link>https://github.com/llermaly/movedoro/releases</link>
-            <sparkle:version>1.2.1</sparkle:version>
-            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://llermaly.github.io/movedoro-releases/Movedoro.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.2.1/Movedoro.zip" length="1499711" type="application/octet-stream" sparkle:edSignature="Zaz4lCRoIDKqjM1mUmZuRAzIyimVGHIFNyMHtVMJKysUK8ovGnsWCsLCcTYV4QadT76LJX7lZnXEsx65uIzJBQ=="/>
         </item>
     </channel>
 </rss>
