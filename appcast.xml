@@ -6,6 +6,16 @@
         <description>Updates for Movedoro</description>
         <language>en</language>
         <item>
+            <title>1.3.2</title>
+            <pubDate>Sun, 18 Jan 2026 18:13:07 +0000</pubDate>
+            <link>https://github.com/llermaly/movedoro/releases</link>
+            <sparkle:version>1.3.2</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://llermaly.github.io/movedoro-releases/release-notes-1.3.2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.3.2/Movedoro-1.3.2.zip" length="1932778" type="application/octet-stream" sparkle:edSignature="ABnPHlAy5+4qhZVlwMTtHezC7gduVODMIPvmh6DtQR/oWj40HJfeQX03D/lTK4OJXqKv37yrOE3GVF8oZCJeDg=="/>
+        </item>
+        <item>
             <title>1.3.1</title>
             <pubDate>Sun, 18 Jan 2026 03:28:27 +0000</pubDate>
             <link>https://github.com/llermaly/movedoro/releases</link>
@@ -24,16 +34,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://llermaly.github.io/movedoro-releases/release-notes-1.3.0.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.3.0/Movedoro-1.3.0.zip" length="1929907" type="application/octet-stream" sparkle:edSignature="i0jz6WKJ7lQJNfR6ctOa45zAmc8txZ4ylbYtiHT+IlNf14yGb2wNqDb/CydwQ7c26wkKwEpv8S5z+oY1XEp/AA=="/>
-        </item>
-        <item>
-            <title>1.2.9</title>
-            <pubDate>Sat, 17 Jan 2026 17:33:29 +0000</pubDate>
-            <link>https://github.com/llermaly/movedoro/releases</link>
-            <sparkle:version>1.2.9</sparkle:version>
-            <sparkle:shortVersionString>1.2.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://llermaly.github.io/movedoro-releases/release-notes-1.2.9.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.2.9/Movedoro-1.2.9.zip" length="1542236" type="application/octet-stream" sparkle:edSignature="MNyUV0CasQWrcXLDfZn1QBDWjsC2DQ1GdvnxSsdQF42cqJF5RyzSXLnOxl+lmAcBXidUa/Od1JFTQbbpKlYwCw=="/>
         </item>
     </channel>
 </rss>
