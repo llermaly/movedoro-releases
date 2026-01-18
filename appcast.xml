@@ -13,7 +13,7 @@
             <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://llermaly.github.io/movedoro-releases/release-notes-1.3.2.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.3.2/Movedoro-1.3.2.zip" length="1932778" type="application/octet-stream" sparkle:edSignature="ABnPHlAy5+4qhZVlwMTtHezC7gduVODMIPvmh6DtQR/oWj40HJfeQX03D/lTK4OJXqKv37yrOE3GVF8oZCJeDg=="/>
+            <enclosure url="https://llermaly.github.io/movedoro-releases/Movedoro-1.3.2.zip" length="1932778" type="application/octet-stream" sparkle:edSignature="ABnPHlAy5+4qhZVlwMTtHezC7gduVODMIPvmh6DtQR/oWj40HJfeQX03D/lTK4OJXqKv37yrOE3GVF8oZCJeDg=="/>
         </item>
         <item>
             <title>1.3.1</title>
@@ -23,7 +23,7 @@
             <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://llermaly.github.io/movedoro-releases/release-notes-1.3.1.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.3.1/Movedoro-1.3.1.zip" length="1937044" type="application/octet-stream" sparkle:edSignature="bpRnQzFQKxU2yku48pIM/hrbsPHK5wFBItyo+LyKZlFL+v9wP9GhcW1c4xgZmcrjOxqisUVX2dRbZ8+IfP+6Aw=="/>
+            <enclosure url="https://llermaly.github.io/movedoro-releases/Movedoro-1.3.1.zip" length="1937044" type="application/octet-stream" sparkle:edSignature="bpRnQzFQKxU2yku48pIM/hrbsPHK5wFBItyo+LyKZlFL+v9wP9GhcW1c4xgZmcrjOxqisUVX2dRbZ8+IfP+6Aw=="/>
         </item>
         <item>
             <title>1.3.0</title>
@@ -33,7 +33,7 @@
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://llermaly.github.io/movedoro-releases/release-notes-1.3.0.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/llermaly/movedoro/releases/download/v1.3.0/Movedoro-1.3.0.zip" length="1929907" type="application/octet-stream" sparkle:edSignature="i0jz6WKJ7lQJNfR6ctOa45zAmc8txZ4ylbYtiHT+IlNf14yGb2wNqDb/CydwQ7c26wkKwEpv8S5z+oY1XEp/AA=="/>
+            <enclosure url="https://llermaly.github.io/movedoro-releases/Movedoro-1.3.0.zip" length="1929907" type="application/octet-stream" sparkle:edSignature="i0jz6WKJ7lQJNfR6ctOa45zAmc8txZ4ylbYtiHT+IlNf14yGb2wNqDb/CydwQ7c26wkKwEpv8S5z+oY1XEp/AA=="/>
         </item>
     </channel>
 </rss>
